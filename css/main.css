@@ -1,0 +1,30 @@
+h1 {
+    color: darkmagenta;
+    font-size: xxx-large;
+}
+
+p {
+    background: blanchedalmond;
+    text-align: center;
+}
+
+a {
+    color: cornflowerblue;
+}
+
+a:hover {
+    color: crimson;
+    font-size: 20px;
+}
+
+a:visited {
+    color: #ff00ff;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
